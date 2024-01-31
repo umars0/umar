@@ -54,7 +54,7 @@ void main() {
   bankAccount1.addInterest();
   bankAccount1.display();
 
-  Student student1 = Student('John Doe', '001', ['Math', 'Science']);
+  Student student1 = Student('Umar Sadiq', '001', ['Math', 'Science']);
   student1.addCourse('Biology');
   student1.dropCourse('Science');
   student1.displayCourses();
